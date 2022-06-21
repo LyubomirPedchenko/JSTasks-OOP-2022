@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JSTasks-OOP-2022/static/css/main.e914a21e.css",
+    "main.js": "/JSTasks-OOP-2022/static/js/main.c658af0e.js",
+    "static/js/787.1f61f47d.chunk.js": "/JSTasks-OOP-2022/static/js/787.1f61f47d.chunk.js",
+    "index.html": "/JSTasks-OOP-2022/index.html",
+    "main.e914a21e.css.map": "/JSTasks-OOP-2022/static/css/main.e914a21e.css.map",
+    "main.c658af0e.js.map": "/JSTasks-OOP-2022/static/js/main.c658af0e.js.map",
+    "787.1f61f47d.chunk.js.map": "/JSTasks-OOP-2022/static/js/787.1f61f47d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e914a21e.css",
+    "static/js/main.c658af0e.js"
+  ]
+}
